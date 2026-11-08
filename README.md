@@ -287,7 +287,7 @@ As metas são do projeto. Os pontos de partida serão medidos nas empresas do pi
 
 ### 9.2 Tayrone Henrique do Carmo (Engenharia de Dados)
 
-**Papel no projeto:** [PREENCHER, com commits e PRs].
+**Papel no projeto:** fui integrante de Engenharia de Dados e fiquei com a busca de dados e fontes do problema. Pesquisei o levantamento do Dieese com a PNAD 2025 (26,8 milhões de trabalhadores alcançados, 14,8 milhões em 6x1 e os setores mais afetados), confrontei os números em mais de uma notícia e separei só fontes recentes. Com isso escrevi a análise do problema (seção 2.1 e 2.2) e os indicadores e metas de impacto esperado (seção 7). Também desenhei o modelo de dados e o fluxo de importação do ponto descritos na seção 3. Participei da revisão final do documento inteiro.
 
 **Plano de desenvolvimento (6 a 12 meses):**
 - Competências que faltam: [PREENCHER].
