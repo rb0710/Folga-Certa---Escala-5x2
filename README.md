@@ -276,7 +276,7 @@ As metas são do projeto. Os pontos de partida serão medidos nas empresas do pi
 
 ### 9.1 Rúben Tavares Nascimento (DevSecOps)
 
-**Papel no projeto:** [PREENCHER: o que o Rúben fez, com os commits e PRs que provam. Exemplo de formato: "escrevi as seções 3 e 4, commits abc123 e def456"].
+**Papel no projeto:** fui o integrante de Back-End e DevSecOps e fiquei com a pesquisa jurídica, de segurança e de infraestrutura. Pesquisei o texto e o calendário da Emenda Constitucional 141/2026 (as duas etapas, o que muda para terceirizados e pequenas empresas e a PEC paralela do Senado), li a Portaria MTE 671/2021 para entender o registro eletrônico de ponto e a LGPD para montar a tabela de dados, bases legais e prazos. Com essa pesquisa, escrevi a análise ética (seção 4), a arquitetura e a parte de segurança da proposta (seção 3.2) e o quadro de decisões sobre nuvem, app e ponto (seção 8). Também revisei o documento inteiro para que todos pudessem explicá-lo na arguição.
 
 **Plano de desenvolvimento (6 a 12 meses):**
 - Competências que faltam: [PREENCHER: duas ou três, reais].
