@@ -291,8 +291,8 @@ As metas são do projeto. Os pontos de partida serão medidos nas empresas do pi
 
 **Plano de desenvolvimento (6 a 12 meses):**
 - Competências que faltam: SQL avançado para validação de regras, testes automatizados para o motor de regras e comunicação técnica — explicar o dado de forma simples para quem não é da área, como o dono da loja.
-- Meta SMART 1: [PREENCHER].
-- Meta SMART 2: [PREENCHER].
+- Meta SMART 1: Até março de 2027, concluir 1 curso de SQL + Python para regras de negócio e aplicar em 2 projetos pessoais com testes automatizados, publicando os repositórios no GitHub.
+- Meta SMART 2: Até junho de 2027, apresentar 1 projeto de dados em público (na faculdade ou em meetup), com documentação clara do modelo de dados e dos KPIs, para melhorar a comunicação e o portfólio.
 
 **Feedback dos colegas (escrito em conjunto):** [PREENCHER].
 
