@@ -308,6 +308,18 @@ Ponto de partida: estudo ADS na UNICID e tenho base em Java, Spring Boot, APIs R
 
 **Papel no projeto:** fui integrante de Engenharia de Dados e fiquei com a pesquisa de soluções existentes, acessibilidade e sustentabilidade. Pesquisei sistemas comerciais de ponto e de escala para comparar o que já existe e por que não basta (seção 2.3), estudei a WCAG 2.2, o eMAG e a Lei Brasileira de Inclusão para definir quem pode ficar de fora e os requisitos (seção 5) e levantei as práticas de TI Verde e os custos de manter o sistema depois do primeiro ano (seção 6). Também organizei as referências (seção 10) e participei da revisão final do documento inteiro.
 
+Plano de desenvolvimento (6 a 12 meses):
+
+O que ainda preciso aprender:
+
+	• Banco de dados com SQL mais avançado, para organizar as informações em tabelas bem ligadas e buscar o que preciso de forma rápida.
+	•	Pipelines de dados, que são passos automáticos para ler um arquivo, limpar os erros e guardar tudo certinho no banco, como acontece com o arquivo do ponto eletrônico.
+	•	Qualidade dos dados, ou seja, saber achar erros como registros repetidos e horários impossíveis, e anotar de onde cada dado veio e quando foi consultado.
+
+Meta 1: até 31/03/2027, fazer um curso de SQL e modelagem de dados e, com o que aprender, montar um projeto meu no GitHub com um banco de dados de pelo menos 5 tabelas ligadas entre si e 10 consultas explicadas. Vou saber que cumpri quando tiver o certificado do curso e o projeto publicado no repositório.
+
+Meta 2: até 30/09/2027, criar em Python um pipeline que leia um arquivo de ponto de exemplo, confira se há registros repetidos ou horários impossíveis, guarde os dados no banco e gere um relatório simples. O README do projeto vai explicar cada etapa. Vou saber que cumpri quando o pipeline rodar do começo ao fim e os testes de conferência passarem.
+
 **Feedback dos colegas (escrito em conjunto):** O Keveny cuidou de olhar para quem poderia ficar de fora da solução. Ele pesquisou o que já existe no mercado, estudou as regras de acessibilidade e pensou em como o sistema se mantém depois do primeiro ano. Isso deixou a proposta mais completa e mais justa. O ponto a melhorar é registrar com mais detalhe as fontes que usa, para que o grupo possa conferir cada informação mais rápido.
 
 ---
