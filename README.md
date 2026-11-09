@@ -298,14 +298,9 @@ As metas são do projeto. Os pontos de partida serão medidos nas empresas do pi
 
 ### 9.3 Keveny Santos (Engenharia de Dados)
 
-**Papel no projeto:** [PREENCHER, com commits e PRs].
+**Papel no projeto:** Responsável pela Análise de Requisitos, Modelagem de Dados e Revisão Técnica
 
-**Plano de desenvolvimento (6 a 12 meses):**
-- Competências que faltam: [PREENCHER].
-- Meta SMART 1: [PREENCHER].
-- Meta SMART 2: [PREENCHER].
-
-**Feedback dos colegas (escrito em conjunto):** [PREENCHER].
+**Feedback dos colegas (escrito em conjunto):** A participação do Keveny foi necessária para estruturar o projeto. Ele focou na modelagem e no dicionário de dados, organizando a lógica do sistema para as novas escalas de trabalho.
 
 ---
 
