@@ -279,11 +279,19 @@ As metas são do projeto. Os pontos de partida serão medidos nas empresas do pi
 **Papel no projeto:** fui o integrante de Back-End e DevSecOps e fiquei com a pesquisa jurídica, de segurança e de infraestrutura. Pesquisei o texto e o calendário da Emenda Constitucional 141/2026 (as duas etapas, o que muda para terceirizados e pequenas empresas e a PEC paralela do Senado), li a Portaria MTE 671/2021 para entender o registro eletrônico de ponto e a LGPD para montar a tabela de dados, bases legais e prazos. Com essa pesquisa, escrevi a análise ética (seção 4), a arquitetura e a parte de segurança da proposta (seção 3.2) e o quadro de decisões sobre nuvem, app e ponto (seção 8). Também revisei o documento inteiro para que todos pudessem explicá-lo na arguição.
 
 **Plano de desenvolvimento (6 a 12 meses):**
-- Competências que faltam: [PREENCHER: duas ou três, reais].
-- Meta SMART 1: [PREENCHER. Formato: o que, quanto, até quando. Exemplo para editar: "Concluir um curso de CI/CD e publicar um pipeline funcionando no GitHub até 30/04/2027"].
-- Meta SMART 2: [PREENCHER].
+Ponto de partida: estudo ADS na UNICID e tenho base em Java, Spring Boot, APIs REST, PostgreSQL, Docker, Git e GitHub Actions. Já conheço os conceitos de CI/CD e de OWASP, mas ainda não apliquei tudo isso junto em um projeto completo, do código ao ambiente em nuvem.
 
-**Feedback dos colegas (escrito em conjunto):** [PREENCHER: o que Tayrone e Keveny dizem do Rúben, com um ponto forte e um a melhorar].
+- Competências que faltam:
+
+	•	Autenticação e controle de acesso em APIs com Spring Security, usando tokens (JWT ou OAuth2), e testes automatizados que provem que as regras de acesso funcionam.
+	•	Segurança dentro do pipeline: verificação de dependências vulneráveis e de imagens Docker a cada commit.
+	•	Cloud Computing na prática: publicar uma aplicação em um provedor de nuvem, com banco gerenciado e segredos fora do código.
+
+- Meta SMART 1: até 31/03/2027, construir uma API REST própria em Java e Spring Boot com login e acesso por perfil (Spring Security com JWT), testes automatizados cobrindo as regras de acesso e um pipeline no GitHub Actions que, a cada push, rode os testes, verifique dependências vulneráveis e gere a imagem Docker. O README do repositório explicará o passo a passo. Será medida pelo pipeline concluído com sucesso no GitHub e pelos testes de acesso passando.
+
+- Meta SMART 2: até 30/06/2027, publicar essa mesma API em um provedor de nuvem com banco PostgreSQL gerenciado, deploy automático feito pelo pipeline e senhas e chaves guardadas como segredos, nunca no código. Será medida pela API acessível online, pelo deploy automático rodando a cada mudança aprovada e pela ausência de segredos no histórico do repositório.
+
+**Feedback dos colegas (escrito em conjunto):** O Rúben foi quem mais se preocupou com o lado da lei e da segurança do projeto. Ele pesquisou a emenda do fim da 6x1, a portaria do ponto eletrônico e a LGPD, e transformou isso em regras claras de proteção de dados. Isso deu segurança ao grupo para dizer que a proposta cumpre a lei. O que ele pode melhorar é explicar os termos técnicos de segurança e de nuvem com palavras mais simples, para que qualquer pessoa do grupo e da banca entenda de primeira.
 
 ### 9.2 Tayrone Henrique do Carmo (Engenharia de Dados)
 
@@ -294,13 +302,13 @@ As metas são do projeto. Os pontos de partida serão medidos nas empresas do pi
 - Meta SMART 1: Até março de 2027, concluir 1 curso de SQL + Python para regras de negócio e aplicar em 2 projetos pessoais com testes automatizados, publicando os repositórios no GitHub.
 - Meta SMART 2: Até junho de 2027, apresentar 1 projeto de dados em público (na faculdade ou em meetup), com documentação clara do modelo de dados e dos KPIs, para melhorar a comunicação e o portfólio.
 
-**Feedback dos colegas (escrito em conjunto):** [PREENCHER].
+**Feedback dos colegas (escrito em conjunto):** O Tayrone foi quem buscou os números do problema. Ele achou o levantamento do Dieese, conferiu os dados em mais de uma fonte e usou só informação recente, o que deixou a análise do problema bem fundamentada. Ele também ajudou a pensar em como medir se o projeto dá certo. O ponto a melhorar é mostrar mais cedo o que está fazendo, em rascunhos curtos, para o grupo poder opinar antes da versão final.
 
 ### 9.3 Keveny Santos (Engenharia de Dados)
 
 **Papel no projeto:** fui integrante de Engenharia de Dados e fiquei com a pesquisa de soluções existentes, acessibilidade e sustentabilidade. Pesquisei sistemas comerciais de ponto e de escala para comparar o que já existe e por que não basta (seção 2.3), estudei a WCAG 2.2, o eMAG e a Lei Brasileira de Inclusão para definir quem pode ficar de fora e os requisitos (seção 5) e levantei as práticas de TI Verde e os custos de manter o sistema depois do primeiro ano (seção 6). Também organizei as referências (seção 10) e participei da revisão final do documento inteiro.
 
-**Feedback dos colegas (escrito em conjunto):** A participação do Keveny foi necessária para estruturar o projeto. Ele focou na modelagem e no dicionário de dados, organizando a lógica do sistema para as novas escalas de trabalho.
+**Feedback dos colegas (escrito em conjunto):** O Keveny cuidou de olhar para quem poderia ficar de fora da solução. Ele pesquisou o que já existe no mercado, estudou as regras de acessibilidade e pensou em como o sistema se mantém depois do primeiro ano. Isso deixou a proposta mais completa e mais justa. O ponto a melhorar é registrar com mais detalhe as fontes que usa, para que o grupo possa conferir cada informação mais rápido.
 
 ---
 
