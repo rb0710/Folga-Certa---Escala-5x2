@@ -298,7 +298,7 @@ As metas são do projeto. Os pontos de partida serão medidos nas empresas do pi
 
 ### 9.3 Keveny Santos (Engenharia de Dados)
 
-**Papel no projeto:** Responsável pela Análise de Requisitos, Modelagem de Dados e Revisão Técnica
+**Papel no projeto:** fui integrante de Engenharia de Dados e fiquei com a pesquisa de soluções existentes, acessibilidade e sustentabilidade. Pesquisei sistemas comerciais de ponto e de escala para comparar o que já existe e por que não basta (seção 2.3), estudei a WCAG 2.2, o eMAG e a Lei Brasileira de Inclusão para definir quem pode ficar de fora e os requisitos (seção 5) e levantei as práticas de TI Verde e os custos de manter o sistema depois do primeiro ano (seção 6). Também organizei as referências (seção 10) e participei da revisão final do documento inteiro.
 
 **Feedback dos colegas (escrito em conjunto):** A participação do Keveny foi necessária para estruturar o projeto. Ele focou na modelagem e no dicionário de dados, organizando a lógica do sistema para as novas escalas de trabalho.
 
