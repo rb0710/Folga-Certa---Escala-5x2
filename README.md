@@ -312,9 +312,9 @@ Plano de desenvolvimento (6 a 12 meses):
 
 O que ainda preciso aprender:
 
-	• Banco de dados com SQL mais avançado, para organizar as informações em tabelas bem ligadas e buscar o que preciso de forma rápida.
-	•	Pipelines de dados, que são passos automáticos para ler um arquivo, limpar os erros e guardar tudo certinho no banco, como acontece com o arquivo do ponto eletrônico.
-	•	Qualidade dos dados, ou seja, saber achar erros como registros repetidos e horários impossíveis, e anotar de onde cada dado veio e quando foi consultado.
+•	Banco de dados com SQL mais avançado, para organizar as informações em tabelas bem ligadas e buscar o que preciso de forma rápida.
+•	Pipelines de dados, que são passos automáticos para ler um arquivo, limpar os erros e guardar tudo certinho no banco, como acontece com o arquivo do ponto eletrônico.
+•	Qualidade dos dados, ou seja, saber achar erros como registros repetidos e horários impossíveis, e anotar de onde cada dado veio e quando foi consultado.
 
 Meta 1: até 31/03/2027, fazer um curso de SQL e modelagem de dados e, com o que aprender, montar um projeto meu no GitHub com um banco de dados de pelo menos 5 tabelas ligadas entre si e 10 consultas explicadas. Vou saber que cumpri quando tiver o certificado do curso e o projeto publicado no repositório.
 
