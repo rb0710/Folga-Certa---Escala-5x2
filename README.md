@@ -302,7 +302,7 @@ Ponto de partida: estudo ADS na UNICID e tenho base em Java, Spring Boot, APIs R
 - Meta SMART 1: Até março de 2027, concluir 1 curso de SQL + Python para regras de negócio e aplicar em 2 projetos pessoais com testes automatizados, publicando os repositórios no GitHub.
 - Meta SMART 2: Até junho de 2027, apresentar 1 projeto de dados em público (na faculdade ou em meetup), com documentação clara do modelo de dados e dos KPIs, para melhorar a comunicação e o portfólio.
 
-**Feedback dos colegas (escrito em conjunto):** O Tayrone foi quem buscou os números do problema. Ele achou o levantamento do ByPonto, conferiu os dados em mais de uma fonte e usou só informação recente, o que deixou a análise do problema bem fundamentada. Ele também ajudou a pensar em como medir se o projeto dá certo. O ponto a melhorar é mostrar mais cedo o que está fazendo, em rascunhos curtos, para o grupo poder opinar antes da versão final.
+**Feedback dos colegas (escrito em conjunto):** O Tayrone foi quem buscou os números do problema. Ele achou o levantamento do Dieese, conferiu os dados em mais de uma fonte e usou só informação recente, o que deixou a análise do problema bem fundamentada. Ele também ajudou a pensar em como medir se o projeto dá certo. O ponto a melhorar é mostrar mais cedo o que está fazendo, em rascunhos curtos, para o grupo poder opinar antes da versão final.
 
 ### 9.3 Keveny Santos (Engenharia de Dados)
 
